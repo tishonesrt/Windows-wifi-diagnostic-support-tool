@@ -1,0 +1,40 @@
+================================================
+       Windows Wi-Fi Diagnostic Report
+================================================
+Date: Sample Test
+
+[WI-FI ADAPTER]
+Adapter: Realtek WiFi Adapter
+Status: Up
+Result: PASS
+
+[NETWORK CONFIGURATION]
+IPv4 Address: 192.168.1.100
+Subnet Prefix Length: 24
+Default Gateway: 192.168.1.1
+DNS Server: 8.8.8.8
+
+[GATEWAY CONNECTIVITY]
+Gateway: 192.168.1.1
+Gateway Reachable: True
+Result: PASS
+
+[PUBLIC INTERNET]
+Test Address: 1.1.1.1
+Public IP Reachable: True
+Result: PASS
+
+[DNS RESOLUTION]
+Test Domain: google.com
+DNS Resolution: Successful
+Result: PASS
+
+[WI-FI SIGNAL]
+Signal: 90%
+
+[OVERALL RESULT]
+Status: ALL BASIC CHECKS PASSED
+
+================================================
+Diagnostic completed.
+================================================
