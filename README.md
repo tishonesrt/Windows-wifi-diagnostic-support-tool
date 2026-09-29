@@ -172,4 +172,23 @@ Wifi-Diagnostic-Support-Tool/
 * Technical documentation
 
 ## Future Improvement
+* Add Wi-Fi profile information
+* Add latency measurement
+* Add automatic troubleshooting suggestions
+* Add CSV report generation
+* Add Windows Event Log checks
+* Add a simple graphical interface
+  
+## Security & Privacy
 
+The diagnostic reports may contain local network information such as IP addresses, gateway addresses, and DNS server information.
+
+For this reason, generated real diagnostic reports are excluded from version control using .gitignore.
+
+A sanitized sample report is included for demonstration purposes.
+
+Author
+
+Tishone Prabhu
+
+BCA Graduate | Aspiring L1 IT Support / IT Operations Professional
